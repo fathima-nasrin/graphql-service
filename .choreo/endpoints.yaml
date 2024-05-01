@@ -1,4 +1,4 @@
 version: 0.1
 endpoints:
 - name: GraphQL Service
-  port: 8090
+  port: 80
